@@ -1,0 +1,16 @@
+form{
+    padding: 15px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border:  1px solid black;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+form label{
+    font-size: 15px;
+    font-weight: bold;
+}
+form label input{
+    font-size: 15px;
+    font-weight: bold;
+}
